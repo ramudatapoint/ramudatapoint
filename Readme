@@ -28,4 +28,22 @@ the project and how to run it.
 
 #Solution
 Create Dajngo Project user django 2.2
-clone the code 
+clone the code git clone https://github.com/ramudatapoint/ramudatapoint.git
+start the server python manage.py runserver
+now open the browser and enter http://localhost:8000
+Login as user
+login id : admin
+password: admin
+
+now import the data
+the data will be imported as bulk
+here the image extension case sensitive
+so the case sensitive i was avoided
+now
+view the list
+logout
+now click directory
+click filter
+eneter keyword by last name first digit or subject name
+result fill found
+next click view profile you can see the teach profile

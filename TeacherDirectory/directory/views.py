@@ -56,7 +56,7 @@ def importBulk(request):
         Subjectstaught = df['Subjects taught'][i]
 
 
-        pic = 'default.jpg'
+        pic = 'default.JPG'
         if Profilepicture not in li:
             Profilepicture = pic
 

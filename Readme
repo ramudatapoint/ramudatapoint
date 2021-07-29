@@ -31,6 +31,7 @@ Create Dajngo Project user django 2.2
 clone the code git clone https://github.com/ramudatapoint/ramudatapoint.git
 start the server python manage.py runserver
 now open the browser and enter http://localhost:8000
+#you can find the running server at http://ramumaloth.pythonanywhere.com/
 Login as user
 login id : admin
 password: admin
